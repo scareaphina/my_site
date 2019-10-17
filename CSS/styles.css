@@ -6,21 +6,31 @@
 
  h1 {
    font-size: 5.625rem;
+   line-height: 2;
+   color: #66BFBF;
    margin: 50px auto 0 auto;
    font-family: 'Sacramento', cursive;
  }
 
  h2 {
    font-size: 2.5rem;
+   font-weight: normal;
+   line-height: 2;
+   color: #66BFBF;
    font-family: 'Montserrat', sans-serif;
  }
 
  h3 {
+   color: #11999E;
    font-family: 'Montserrat', sans-serif;
  }
 
  div {
    background-color: #e4f9f5;
+ }
+
+ a:link {
+   color: #11999E;
  }
 
  .top-container {
@@ -51,7 +61,11 @@
    top: 50px;
  }
 
- .pictures {
+ .profile-pic {
    border-radius: 50%;
    width: 200px;
+ }
+
+ .pictures {
+
  }
