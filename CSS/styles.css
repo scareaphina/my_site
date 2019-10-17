@@ -28,14 +28,10 @@
  }
 
  .middle-container {
-   height: 200px;
-   width: 200px;
    background-color: #30e3ca;
  }
 
  .bottom-container {
-   height: 200px;
-   width: 200px;
    background-color: #11999e;
  }
 
@@ -53,4 +49,9 @@
    position: absolute;
    right: 300px;
    top: 50px;
+ }
+
+ .profilepic {
+   border-radius: 50%;
+   width: 200px;
  }
