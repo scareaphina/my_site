@@ -45,9 +45,14 @@
  }
 
  a {
-   color: white;
+   color: #11999e;
    font-family: 'Montserrat', sans-serif;
    margin: 10px 20px;
+   text-decoration: none;
+ }
+
+ a:hover {
+   color: #e4f9f5;
  }
 
  .top-container {
@@ -119,10 +124,11 @@
    margin-right: 30px;
  }
 
- .footer-link {
-   margin: 100px auto 100px auto;
-   color: #11999e;
- }
+.copyright {
+  color: #e4f9f5;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
 
  .btn {
    background: #11cdd4;
